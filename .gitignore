@@ -1,0 +1,56 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+mvnw
+mvnw.cmd
+*.iml
+
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+### LH_Project ###
+lh_demo/target/
+!lh_demo/.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+lh_demo/.apt_generated
+lh_demo/.classpath
+lh_demo/.factorypath
+lh_demo/.project
+lh_demo/.settings
+lh_demo/.springBeans
+
+### IntelliJ IDEA ###
+lh_demo/.idea
+lh_demo/*.iws
+lh_demo/*.iml
+lh_demo/*.ipr
+lh_demo/mvnw
+lh_demo/mvnw.cmd
+lh_demo/*.iml
+
+### NetBeans ###
+lh_demo/nbproject/private/
+lh_demo/build/
+lh_demo/nbbuild/
+lh_demo/dist/
+lh_demo/nbdist/
+lh_demo/.nb-gradle/
